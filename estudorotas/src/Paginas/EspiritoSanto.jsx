@@ -8,7 +8,7 @@ export default function EspiritoSanto()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/ES.png" alt="" />
             </p>
 
             <p>
