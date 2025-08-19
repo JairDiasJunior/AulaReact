@@ -9,7 +9,7 @@ export default function Acre()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/AC.jpg" alt="" />
             </p>
 
             <p>

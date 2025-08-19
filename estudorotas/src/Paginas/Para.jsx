@@ -9,7 +9,7 @@ export default function Para()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/PA.jpg" alt="" />
             </p>
 
             <p>

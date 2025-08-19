@@ -9,7 +9,7 @@ export default function Paraiba()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/PB.webp" alt="" />
             </p>
 
             <p>

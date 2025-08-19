@@ -9,7 +9,7 @@ export default function Amapa()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/AP.webp" alt="" />
             </p>
 
             <p>

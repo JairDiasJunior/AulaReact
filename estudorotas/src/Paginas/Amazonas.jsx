@@ -9,7 +9,7 @@ export default function Amazonas()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/AM.jpg" alt="" />
             </p>
 
             <p>

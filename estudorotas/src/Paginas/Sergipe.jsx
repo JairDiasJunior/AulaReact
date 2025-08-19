@@ -9,7 +9,7 @@ export default function Sergipe()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/SE.webp" alt="" />
             </p>
 
             <p>

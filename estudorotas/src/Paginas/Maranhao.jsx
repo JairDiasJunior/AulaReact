@@ -9,7 +9,7 @@ export default function Maranhao()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="MA.jpg" alt="" />
             </p>
 
             <p>

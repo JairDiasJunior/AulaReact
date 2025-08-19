@@ -8,7 +8,7 @@ export default function MatoGrosso()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/MT.jpg" alt="" />
             </p>
 
             <p>

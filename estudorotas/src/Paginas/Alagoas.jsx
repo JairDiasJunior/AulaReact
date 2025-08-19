@@ -9,7 +9,7 @@ export default function Alagoas()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/AL.webp" alt="" />
             </p>
 
             <p>

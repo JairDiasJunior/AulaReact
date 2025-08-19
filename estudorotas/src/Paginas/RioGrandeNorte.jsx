@@ -9,7 +9,7 @@ export default function RioGrandeNorte()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/RN.jpg" alt="" />
             </p>
 
             <p>

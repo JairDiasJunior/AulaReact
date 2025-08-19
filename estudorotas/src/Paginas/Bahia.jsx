@@ -9,7 +9,7 @@ export default function Bahia()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="/BA.jpg" alt="" />
             </p>
 
             <p>
