@@ -16,17 +16,17 @@ h1
 
 h3
 {
-    color: white;
+    color: rgb(244,164,96);
 }
 
 p
 {
-    color: white;
+    color: rgb(218,165,32);
 }
 
 .conteudo
 {
-    background-color: rgb(200,200,200);
+    background-color: rgb(139,69,19);
     width: 700px;
     margin: 20px auto;
     padding: 20px;
@@ -38,7 +38,7 @@ p
 
 .conteudo a
 {
-    color: rgb(255,255,255);
+    color: rgb(218,165,32);
     text-decoration: none;
 }
 
